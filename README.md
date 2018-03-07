@@ -1,6 +1,6 @@
 # ubuntu-caffe-build
 
-Short notes to help with building/isntalling Caffe on Ubuntu 16.04 with Python 3.5
+Short notes to help with building/installing Caffe on Ubuntu 16.04 with Python 3.5
 
 ## install dependencies
 
